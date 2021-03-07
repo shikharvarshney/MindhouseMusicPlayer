@@ -1,6 +1,7 @@
 # MindhouseMusicPlayer - Music Player App
 
 I have tried to provide all the necessary pre-requisites in this project which can allow any fellow developer to follow this. The constitues of the project and instructions for 'How to install?' are mentioned later in this document.
+Here is the video link to show how the app is working:- https://mindhousemusicplayerapp.s3.amazonaws.com/MindhosueMusicPlayerApp.mp4
 
 ### Prerequisites
 
